@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  gitops-bootstrap:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-05-18T13:28:32.427519537Z"
+    description: A Helm chart for Kubernetes
+    digest: 4d218f2c61b589f2eb463913b315f9c3e1157761c251feeb900118c6dd4467a5
+    name: gitops-bootstrap
+    type: application
+    urls:
+    - https://github.com/robinlioret/helm-charts/releases/download/gitops-bootstrap-0.1.0/gitops-bootstrap-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-05-18T13:28:32.427526901Z"
